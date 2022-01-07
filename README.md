@@ -1,4 +1,6 @@
-### Hi, I'm Rui 👋
+<div align="center">
+ <h1> Hi, I'm Rui</h1>
+</div>
 
 <br>
 
@@ -6,6 +8,7 @@
 <h3> SRE | Brazil </h3>
 </div>
 
+<br>
 
 <div align="center">
  <a href="https://www.linkedin.com/in/rui-miguel-andrade-const%C3%A2ncio-07a655101/" target="_blank">
