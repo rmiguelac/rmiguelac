@@ -74,7 +74,7 @@
 -----
  
 <div align="center">
- <p> 🌱 I’m currently learning <strong>Golang</strong> and preparing for the <strong>CKS</strong> and <strong>Azure Architecture</strong> Certifications</p>
+ <p> 🌱 I’m currently learning <strong>Golang</strong>!</p>
 </div>
  
 -----
