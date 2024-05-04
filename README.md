@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<h3> SRE | Brazil </h3>
+<h3> DevOps | Brazil </h3>
 </div>
 
 <div align="center">
