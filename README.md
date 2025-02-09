@@ -74,7 +74,7 @@
 -----
  
 <div align="center">
- <p> 🌱 I’m currently learning <strong>Golang</strong>!</p>
+ <p> 🌱 I’m currently learning <strong>AWS</strong> for the AWS SAA Cert!</p>
 </div>
  
 -----
